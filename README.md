@@ -1,9 +1,6 @@
-Sure, here's a README to guide you through setting up and running the program to fetch ban information from a Battlemetrics server and store it in a MySQL database.
-
----
 
 # Battlemetrics Bans to MySQL
-
+----
 This program fetches ban information from a Battlemetrics server using their API and stores it in a MySQL database.
 
 ## Prerequisites
